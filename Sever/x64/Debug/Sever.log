@@ -1,0 +1,8 @@
+﻿  Sever.cpp
+C:\Users\84372\Desktop\2021_2\1_LapTrinhMang\ThucHanh\9_5_2022\Sever\Sever\Sever.cpp(21,34): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\84372\Desktop\2021_2\1_LapTrinhMang\ThucHanh\9_5_2022\Sever\Sever\Sever.cpp(53,10): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'SOCKET'
+C:\Users\84372\Desktop\2021_2\1_LapTrinhMang\ThucHanh\9_5_2022\Sever\Sever\Sever.cpp(53,10): message : consider using '%lld' in the format string
+C:\Users\84372\Desktop\2021_2\1_LapTrinhMang\ThucHanh\9_5_2022\Sever\Sever\Sever.cpp(53,10): message : consider using '%Id' in the format string
+C:\Users\84372\Desktop\2021_2\1_LapTrinhMang\ThucHanh\9_5_2022\Sever\Sever\Sever.cpp(53,10): message : consider using '%I64d' in the format string
+C:\Users\84372\Desktop\2021_2\1_LapTrinhMang\ThucHanh\9_5_2022\Sever\Sever\Sever.cpp(33): warning C4715: 'ClientThread': not all control paths return a value
+  Sever.vcxproj -> C:\Users\84372\Desktop\2021_2\1_LapTrinhMang\ThucHanh\9_5_2022\Sever\x64\Debug\Sever.exe
